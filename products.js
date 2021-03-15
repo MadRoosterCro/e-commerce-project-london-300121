@@ -12,6 +12,7 @@ const PRODUCTS = [
         "Handcrafted holistic visualize platforms integrated generate relationships",
       weight: 25,
       comfort_level: "Firm",
+      id: 1
     },
     {
       name: "Ebba",
@@ -25,6 +26,7 @@ const PRODUCTS = [
       description: "Ergonomic back-end mesh channels world-class deploy content",
       weight: 5,
       comfort_level: "Medium",
+      id: 2
     },
     {
       name: "Melyssa",
@@ -39,6 +41,7 @@ const PRODUCTS = [
         "Refined collaborative visualize e-business seamless iterate convergence",
       weight: 41,
       comfort_level: "Medium",
+      id: 3
     },
     {
       name: "Lincoln",
@@ -53,6 +56,7 @@ const PRODUCTS = [
         "Gorgeous granular matrix action-items out-of-the-box deliver platforms",
       weight: 22,
       comfort_level: "Medium",
+      id: 4
     },
     {
       name: "Merritt",
@@ -67,6 +71,7 @@ const PRODUCTS = [
         "Small bleeding-edge matrix channels mission-critical transform eyeballs",
       weight: 43,
       comfort_level: "Firm",
+      id: 5
     },
     {
       name: "Willard",
@@ -81,6 +86,7 @@ const PRODUCTS = [
         "Sleek distributed brand relationships next-generation aggregate infrastructures",
       weight: 9,
       comfort_level: "Solid",
+      id: 6
     },
     {
       name: "Luigi",
@@ -95,6 +101,7 @@ const PRODUCTS = [
         "Rustic bleeding-edge cultivate e-services mission-critical transition vortals",
       weight: 39,
       comfort_level: "Medium",
+      id: 7
     },
     {
       name: "Mark",
@@ -109,6 +116,7 @@ const PRODUCTS = [
         "Rustic next-generation enable e-markets one-to-one extend vortals",
       weight: 20,
       comfort_level: "Soft",
+      id: 8
     },
     {
       name: "Franz",
@@ -123,6 +131,7 @@ const PRODUCTS = [
         "Practical e-business reintermediate markets proactive incubate architectures",
       weight: 28,
       comfort_level: "Soft",
+      id: 9
     },
     {
       name: "Dominic",
@@ -137,6 +146,7 @@ const PRODUCTS = [
         "Intelligent compelling benchmark relationships proactive streamline infrastructures",
       weight: 13,
       comfort_level: "Solid",
+      id: 10
     },
     {
       name: "Chet",
@@ -150,6 +160,7 @@ const PRODUCTS = [
       description: "Rustic visionary implement e-tailers rich utilize e-markets",
       weight: 35,
       comfort_level: "Firm",
+      id: 11
     },
     {
       name: "Haleigh",
@@ -164,6 +175,7 @@ const PRODUCTS = [
         "Unbranded rich target interfaces enterprise evolve deliverables",
       weight: 30,
       comfort_level: "Soft",
+      id: 12
     },
     {
       name: "Isobel",
@@ -178,6 +190,7 @@ const PRODUCTS = [
         "Awesome turn-key expedite eyeballs bricks-and-clicks aggregate web services",
       weight: 38,
       comfort_level: "Solid",
+      id: 13
     },
     {
       name: "Norwood",
@@ -192,6 +205,7 @@ const PRODUCTS = [
         "Rustic killer integrate solutions open-source brand mindshare",
       weight: 1,
       comfort_level: "Medium",
+      id: 14
     },
     {
       name: "Melvina",
@@ -206,6 +220,7 @@ const PRODUCTS = [
         "Sleek value-added cultivate solutions interactive seize bandwidth",
       weight: 27,
       comfort_level: "Medium",
+      id: 15
     },
     {
       name: "Lottie",
@@ -220,6 +235,7 @@ const PRODUCTS = [
         "Awesome rich innovate paradigms bricks-and-clicks strategize e-commerce",
       weight: 42,
       comfort_level: "Firm",
+      id: 16
     },
     {
       name: "Unique",
@@ -234,6 +250,7 @@ const PRODUCTS = [
         "Awesome sticky expedite architectures cross-media iterate portals",
       weight: 45,
       comfort_level: "Solid",
+      id: 17
     },
     {
       name: "Arielle",
@@ -247,6 +264,7 @@ const PRODUCTS = [
       description: "Tasty world-class morph vortals viral strategize markets",
       weight: 15,
       comfort_level: "Soft",
+      id: 18
     },
     {
       name: "Marlin",
@@ -261,6 +279,7 @@ const PRODUCTS = [
         "Intelligent integrated morph paradigms holistic redefine functionalities",
       weight: 20,
       comfort_level: "Medium",
+      id: 19
     },
     {
       name: "Cleveland",
@@ -274,6 +293,7 @@ const PRODUCTS = [
       description: "Incredible interactive scale ROI dot-com brand markets",
       weight: 28,
       comfort_level: "Medium",
+      id: 20
     },
   ];
   
