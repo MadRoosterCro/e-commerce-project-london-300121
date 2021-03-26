@@ -1,4 +1,4 @@
-const PRODUCTS = [
+module.exports = [
     {
       name: "Jules",
       type: "Table",
